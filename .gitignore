@@ -1,1 +1,6 @@
+corpus/*
 *.txt
+*.pkl
+
+.ipynb_checkpoints/*
+
